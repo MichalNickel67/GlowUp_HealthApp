@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233316251581",
+    "project_id": "healthandwellbeingapp",
+    "storage_bucket": "healthandwellbeingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233316251581:android:b564d80682a68408f144d4",
+        "android_client_info": {
+          "package_name": "com.Flutter_Mobile_App"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCTp58B_QZD0Hv8O4tzexv5LwnzUWwROQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233316251581:android:c30eb67f8319235df144d4",
+        "android_client_info": {
+          "package_name": "com.health_wellbeing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCTp58B_QZD0Hv8O4tzexv5LwnzUWwROQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
